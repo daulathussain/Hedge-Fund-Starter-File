@@ -23,15 +23,15 @@ By the end of this video, you'll have a fully functional decentralized investmen
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/crypto-hedge-fund-investment-marketplace-dapp)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/q6Z9TjB0WvM?si=7VSrc0QKvOp3Ycde)
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
+  URL: https://youtu.be/q6Z9TjB0WvM?si=7VSrc0QKvOp3Ycde
 ```
 
 #### Install Vs Code Editor
